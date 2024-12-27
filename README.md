@@ -6,10 +6,7 @@ A **mobile-optimized web application** built with **React, Vite, and Tailwind CS
 
 ### 1️⃣ Clone the Repository
 
-```bash
-git clone https://github.com/rheinatamara/relationship_website_mobile.git
-cd relationship_website_mobile
-```
+
 
 ### 2️⃣ Install Dependencies
 
